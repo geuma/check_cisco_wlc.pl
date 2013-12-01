@@ -1,0 +1,23 @@
+check_cisco_wlc.pl
+(c) 2013 Stefan Heumader
+email: stefan@heumader.at
+webpage: http://check-cisco-wlc.urandom.at
+
+Licened under GPLv3 (see LICENSE file)
+
+INTRODUCTION
+------------
+check_cisco_wlc.pl is a Nagios Plugin, which checks
+different values of Cisco Wireless LAN Controllers
+via SNMP.
+
+See http://www.perl.org for more details on Perl
+and http://www.nagios.org/ for more details on Nagios.
+
+BUGS & FEATURES
+---------------
+Email me if you find bugs or if you have some ideas for
+improvements. <stefan@heumader.at>
+
+
+Stefan Heumader
